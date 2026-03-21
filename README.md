@@ -33,9 +33,11 @@ h=>1
 e=>1
 l=>2
 o=>1
+
 🔁 Program 2: Palindrome Check
 
 https://onlinegdb.com/wV44Vco1Tn
+
 🔹 Description
 
 This program checks whether a string is a palindrome or not.
